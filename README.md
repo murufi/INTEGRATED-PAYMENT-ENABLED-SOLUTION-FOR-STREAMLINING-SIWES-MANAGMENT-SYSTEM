@@ -30,22 +30,22 @@ SIWES program, with a specific emphasis on the integration of a payment gateway
 API.</p>
 
 <h1> SYSTEM REQUIREMENT </h1>
-- Users Login Page	
-- Registration Page	
-- Second Step Payment Processing	
-First Step Payment Processing	
-Third Step Payment Processing	
-Fourth Payment Processing	
-Admin Dashboard
-General ITF Admin Dashboard	
- SIWES Coordinator	
-Supervisor Dashboard	
-ITF State Admin Dashboard	
-:Student Dashboard	
-Student Logbook	
-Student Payment History (Before Payment)	
- Student Payment History (After Payment)	
-![image](https://github.com/murufi/INTEGRATED-PAYMENT-ENABLED-SOLUTION-FOR-STREAMLINING-SIWES-MANAGMENT-SYSTEM/assets/68183191/8a50f2ff-4c7e-4169-9251-f5d3b90143b0)
+-Users Login Page	
+
+-Registration Page	
+-Second Step Payment Processing	
+-First Step Payment Processing	
+-Third Step Payment Processing	
+-Fourth Payment Processing	
+-Admin Dashboard
+-General ITF Admin Dashboard	
+-SIWES Coordinator	
+-Supervisor Dashboard	
+-ITF State Admin Dashboard	
+-Student Dashboard	
+-Student Logbook	
+-Student Payment History (Before Payment)	
+-Student Payment History (After Payment)	
 
 
 </body>
