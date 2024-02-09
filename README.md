@@ -1,8 +1,8 @@
 # INTEGRATED-PAYMENT-ENABLED-SOLUTION-FOR-STREAMLINING-SIWES-MANAGMENT-SYSTEM
 The Primary objective of this project is to develop an integrated solution for optimizing SIWES management system, mainly focus on addressing operational challenges, automating process and introducing a seamless payment system, Enhance the efficiency and effectiveness of SIWES, providing students and administrators with a user-friendly platform.
-
+<body>
 <b> <h1> SYSTME DEVELOPMENT INSTRODUCTION </h1></b>
-This project centers around the implementation of a payment gateway in the Student 
+<p style="text-align: justify; font-size:14; font-family:PT Serif;"> This project centers around the implementation of a payment gateway in the Student 
 Industrial Work Experience Scheme (SIWES) management, introducing "AN 
 INTEGRATED PAYMENT-ENABLED SOLUTION FOR STREAMLINING 
 STUDENT INDUSTRIAL WORK EXPERIENCE SCHEME (SIWES) 
@@ -27,4 +27,25 @@ The implementation showcases the system's adherence to the design, ensuring that
 payment functionalities are executed efficiently. This project prioritizes a seamless and 
 user-friendly experience for students, supervisors, and administrators involved in the 
 SIWES program, with a specific emphasis on the integration of a payment gateway 
-API.
+API.</p>
+
+<h1> SYSTEM REQUIREMENT </h1>
+- Users Login Page	
+- Registration Page	
+- Second Step Payment Processing	
+First Step Payment Processing	
+Third Step Payment Processing	
+Fourth Payment Processing	
+Admin Dashboard
+General ITF Admin Dashboard	
+ SIWES Coordinator	
+Supervisor Dashboard	
+ITF State Admin Dashboard	
+:Student Dashboard	
+Student Logbook	
+Student Payment History (Before Payment)	
+ Student Payment History (After Payment)	
+![image](https://github.com/murufi/INTEGRATED-PAYMENT-ENABLED-SOLUTION-FOR-STREAMLINING-SIWES-MANAGMENT-SYSTEM/assets/68183191/8a50f2ff-4c7e-4169-9251-f5d3b90143b0)
+
+
+</body>
