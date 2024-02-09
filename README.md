@@ -3,10 +3,10 @@ The Primary objective of this project is to develop an integrated solution for o
 
 <b> <h1> SYSTME DEVELOPMENT INSTRODUCTION </h1></b>
 <p style="text-align: justify; font-size:14; font-family:PT Serif;"> This project centers around the implementation of a payment gateway in the Student 
-Industrial Work Experience Scheme (SIWES) management, introducing "AN 
+Industrial Work Experience Scheme (SIWES) management, introducing <b><i>AN 
 INTEGRATED PAYMENT-ENABLED SOLUTION FOR STREAMLINING 
 STUDENT INDUSTRIAL WORK EXPERIENCE SCHEME (SIWES) 
-MANAGEMENT." Recognizing operational inefficiencies in existing SIWES systems, 
+MANAGEMENT.</i></b> Recognizing operational inefficiencies in existing SIWES systems, 
 this project emphasizes the automation of payment processes to enhance overall 
 workflow efficiency.
 The implemented system prioritizes the automation of SIWES management processes, 
@@ -62,3 +62,12 @@ API.</p>
 |8| PhpOffice/phpspreadsheet | `Library V1.23` |
 |9| CKEditor | `Library V.4.0` |
 |10| DataTables | jQuery Extension `Library V1.10.21` |
+
+
+## SYSTEM DESIGN AND DEVELOPMENT
+
+## FOR SYSTEM SOURCE CODE AND DOCUMENTATION
+### Contact The Developer
+- Email: rufaiabubakar23@gmail.com
+- Tell : +234 8167468712
+- WhatsApp: https://wa.link/cvgm0s
